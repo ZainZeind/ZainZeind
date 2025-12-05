@@ -1,22 +1,42 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain Zaidan</h1>
-<h3 align="center">Still learning, still building, still curious</h3>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-## 🧑‍💻 About Me:
-- 🎓 Technology Information at Universitas Diponegoro
-- 🌱 Currently learning web development with The Odin Project
-- 💡 Interested in frontend development & UI/UX
-- ✨ Always curious and eager to improve
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainzeind&label=Profile%20views&color=0e75b6&style=flat" alt="zainzeind" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainzeind" alt="zainzeind" /></a> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/adrianobwn](https://www.instagram.com/zaizdn/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/adriano-bawan-2ab409264](https://www.linkedin.com/in/muhammad-zain-zaidan-350546389/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhzzaidan@gmail.com) 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZainZeind&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZainZeind&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainZeind&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 I’m currently Student on Universitas Diponegoro [Electrical Engineering](https://elektro.ft.undip.ac.id/v3/)
 
----
-[![](https://visitcount.itsvg.in/api?id=adrianobwn&icon=4&color=0)](https://visitcount.itsvg.in)
+- 🌱 I’m currently learning **Framework Laravel & React.js**
+
+- 👯 I’m looking to collaborate on [my github account](https://github.com/ZainZeind)
+
+- 🤝 I’m looking for help with [my github accound](https://github.com/ZainZeind)
+
+- 👨‍💻 All of my projects are available at [https://github.com/ZainZeind](https://github.com/ZainZeind)
+
+- 💬 Ask me about **your project**
+
+- 📫 How to reach me **muhzzaidan@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-zain-zaidan-350546389/](https://www.linkedin.com/in/muhammad-zain-zaidan-350546389/)
+
+- ⚡ Fun fact **I think i am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-zain-zaidan-350546389/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-zain-zaidan-350546389/" height="30" width="40" /></a>
+<a href="https://instagram.com/@zaizdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@zaizdn" height="30" width="40" /></a>
+<a href="https://discord.gg/Zeind." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zeind." height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainzeind&show_icons=true&locale=en&layout=compact" alt="zainzeind" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainzeind&show_icons=true&locale=en" alt="zainzeind" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainzeind&" alt="zainzeind" /></p>
