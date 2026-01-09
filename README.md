@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently Student on Universitas Diponegoro [Electrical Engineering](https://elektro.ft.undip.ac.id/v3/)
 
-- 🌱 I’m currently learning **Framework Laravel & React.js**
-
 - 👯 I’m looking to collaborate on [my github account](https://github.com/ZainZeind)
 
 - 🤝 I’m looking for help with [my github accound](https://github.com/ZainZeind)
